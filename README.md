@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Bankist</h3>
     <p align="center">
-      <a  href="https://jchernandez87.github.io/quizzical-trivia">
+      <a  href="https://bankist-appjc.netlify.app/">
       <h2 align="center">View Deploy</h2></a>
     </p>
 </p>
@@ -9,6 +9,10 @@
 ## About The Project
 
 An app simulating a basic bank platform, build using vanilla JavasCript.
+
+## Usage
+
+- Login by usign => username: jd - pin: 1111 or username: jo - pin: 2222
 
 ![capture](https://github.com/jchernandez87/bankist/assets/44485810/6ed95245-bf81-43a4-b046-355e2d354e8c)
 
