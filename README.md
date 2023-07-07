@@ -27,8 +27,7 @@ An app simulating a basic bank platform, build using vanilla JavasCript.
    ```
 2. Run server
    ```sh
-   live-server or get live on visual studio code.
-   ```
+   live-server
 
 👤 **Juan Carlos Hernandez**
 
