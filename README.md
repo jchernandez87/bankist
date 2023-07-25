@@ -11,7 +11,7 @@ An app simulating a basic bank platform, build using vanilla JavaScript.
 
 ## Usage
 
-- Login by usign => username: jd - pin: 1111 or username: jo - pin: 2222
+- Login by using => username: jd - pin: 1111 or username: jo - pin: 2222
 
 ![capture](https://github.com/jchernandez87/bankist/assets/44485810/6ed95245-bf81-43a4-b046-355e2d354e8c)
 
@@ -25,7 +25,7 @@ An app simulating a basic bank platform, build using vanilla JavaScript.
    ```sh
    git clone git@github.com:jchernandez87/bankist/
    ```
-2. Run server
+2. Run the server
    ```sh
    live-server
 
