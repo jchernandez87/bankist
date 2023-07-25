@@ -7,7 +7,7 @@
 
 ## About The Project
 
-An app simulating a basic bank platform, build using vanilla JavasCript.
+An app simulating a basic bank platform, build using vanilla JavaScript.
 
 ## Usage
 
